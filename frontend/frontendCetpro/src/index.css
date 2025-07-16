@@ -1,0 +1,8 @@
+
+
+.hover-shadow-blue:hover {
+  background-color: #cce5ff; /* Azul claro */
+  box-shadow: 0 0 10px rgba(0, 123, 255, 0.5); /* Sombra azul */
+}
+
+
